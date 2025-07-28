@@ -47,6 +47,7 @@ To get a local copy of this project, run the following command:
 ```bash
 git clone https://github.com/your-username/IDS_Project.git
 cd IDS_Project
+```
 
 ---
 
