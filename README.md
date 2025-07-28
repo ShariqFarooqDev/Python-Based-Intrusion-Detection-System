@@ -45,8 +45,8 @@ A real-time **Intrusion Detection System (IDS)** developed during my cybersecuri
 To get a local copy of this project, run the following command:
 
 ```bash
-git clone https://github.com/your-username/IDS_Project.git
-cd IDS_Project
+git clone https://github.com/ShariqFarooqDev/Python-Based-Intrusion-Detection-System.git
+cd Python-Based-Intrusion-Detection-System
 ```
 
 ---
