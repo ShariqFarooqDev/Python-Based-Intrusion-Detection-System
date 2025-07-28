@@ -1,0 +1,12 @@
+2025-07-28 19:52:47,810 - INFO - Archived log file: suspicious_packets.txt to archive\2025-07-28
+2025-07-28 19:52:47,810 - INFO - Archived log file: suspicious_packets.csv to archive\2025-07-28
+2025-07-28 19:52:47,826 - INFO - Archived log file: suspicious_packets.json to archive\2025-07-28
+2025-07-28 19:52:47,826 - INFO - Successfully archived 3 log files.
+2025-07-28 19:52:47,826 - INFO - Starting log cleanup: retaining archives for 90 days...
+2025-07-28 19:52:47,827 - INFO - Log cleanup complete. Deleted 0 old archive(s).
+2025-07-28 20:29:16,527 - INFO - Archived log file: suspicious_packets.txt to archive\2025-07-28
+2025-07-28 20:29:16,541 - INFO - Archived log file: suspicious_packets.csv to archive\2025-07-28
+2025-07-28 20:29:16,542 - INFO - Archived log file: suspicious_packets.json to archive\2025-07-28
+2025-07-28 20:29:16,542 - INFO - Successfully archived 3 log files.
+2025-07-28 20:29:16,542 - INFO - Starting log cleanup: retaining archives for 90 days...
+2025-07-28 20:29:16,543 - INFO - Log cleanup complete. Deleted 0 old archive(s).

@@ -1,0 +1,14 @@
+# High Severity
+ICMP_FLOOD>1/5s|Possible Ping Flood|High
+
+# Medium Severity
+TCP_PORT=50701|Possible Reverse Shell|Medium
+TCP_PORT=80|Possible Reverse Shell|Medium
+UDP_PORT=5353|Detected mDNS Broadcast|Medium
+UDP_PORT=56889|Detected mDNS Broadcast|Medium
+
+# Low Severity
+TCP_PORT=443|Detected HTTP Traffic|Low
+TCP_PORT=60975|Detected HTTP Traffic|Low
+UDP_PORT=53|Detected DNS Query|Low
+UDP_PORT=62211|Detected DNS Query|Low
